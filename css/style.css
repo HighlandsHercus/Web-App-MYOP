@@ -6,7 +6,7 @@ body, html {
 .bgimg {
     background-position: center;
     background-size: cover;
-    background-image: url("/images/restaurant_banner.jpg");
+    background-image: url(../images/restaurant_banner.jpg);
     min-height: 75%;
     alt: "The Haukai Restaurant Photograph";
 } 
